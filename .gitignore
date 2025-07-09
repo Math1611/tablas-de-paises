@@ -1,0 +1,9 @@
+#archivos de entornos
+.venv/
+venv/
+env/
+.env
+.venv-todo/
+
+
+__pycache__/
